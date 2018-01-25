@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-//Change background
+//Change background random
 public class MainActivity extends AppCompatActivity {
     TextView tv;
     @Override
